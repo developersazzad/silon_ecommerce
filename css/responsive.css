@@ -1,0 +1,184 @@
+@media only screen and (max-width: 5000px) {
+  .mobile_menu_main{
+    display:none;
+  }
+}
+@media only screen and (max-width: 991px) {
+  .main_nav {
+    display: none;
+  }
+  .mobile_menu_main{
+    display:block;
+  }
+  .box_box_icon {
+      overflow: hidden;
+      padding-top: 34px;
+      position: absolute;
+  }
+  .header .navbar {
+    padding: 15px 0;
+  }
+.top_menu.group{
+  display:none;
+}
+  .clear_fix {
+    margin-left: 0;
+  }
+  .icon_box_33.col.span_1_of_4 {
+    margin-top: -1px;
+    font-size: 20px;
+}
+  /*================Banner section===============
+  ===============================*/
+.banner_text_box.col.span_1_of_2{
+  width:100%;
+  text-align:center;
+}
+.banner_img.col.span_1_of_2 {
+width:100%;
+}
+.banner_text_box.col.span_1_of_2 {
+    width: 88%;
+    text-align: center;
+}
+.banner_text_box h2 {
+    font-size: 35px;
+    font-weight: 100;
+    margin-top: 30px;
+}
+h2.num_3{
+  font-size:40px;
+  font-weight: 800;
+}
+/*================Banner section===============
+===============================*/
+.col.span_1_of_3.product_box {
+    padding: 0;
+}
+p.product_title {
+  margin-top:-45px;
+}
+.instagram_section .span_1_of_4 {
+  width: 49.2%;
+}
+
+.feature_section .span_1_of_4 {
+    width: 42.2%;
+    margin: 14px;
+}
+
+.header .navbar .icon {
+  padding-bottom: 0;
+}
+
+/*====================
+===============*/
+}
+
+/*================Banner section===============
+===============================*/
+@media only screen and (max-width: 780px) {
+.col.span_1_of_4.product_box{
+  width:49%;
+}
+p.product_title{
+  margin-top:-75px;
+}
+.box_box_icon {
+    overflow: hidden;
+    position: absolute;
+}
+.col.span_1_of_3.post_contant_box{
+  width:100%;
+  margin-bottom: 20px;
+}
+section {
+    display: block;
+    position: relative;
+    width: 100%;
+    padding: 30px 0px;
+}
+p.product_title.null_2 {
+    margin-top: -40px;
+}
+i.ti-instagram.instagram {
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: 500;
+    position: absolute;
+    padding: 39% 41%;
+  }
+section.fotter_section_one.fotter_section {
+    background: #e9e2d8;
+    overflow: hidden;
+    padding: 30px 10px;
+    text-align: left;
+}
+/*================footer section===============
+===============================*/
+.row_footer .col.span_1_of_4 {
+    width: 48%;
+    margin-bottom: 10px;
+}
+
+}
+@media only screen and (max-width: 680px) {
+  p.product_title{
+       margin-top: -46px;
+  }
+  .box_box_icon {
+    overflow: hidden;
+
+    padding-top: 0;
+    position: absolute;
+}
+
+}
+
+@media only screen and (max-width: 481px) {
+.col.span_1_of_4.product_box{
+  width:100%;
+}
+.box_box_icon {
+    overflow: hidden;
+    margin-top: -42px;
+    padding-top: 0;
+    position: absolute;
+}
+p.product_title{
+  margin-top:-30px;
+}
+.span_1_of_4.col.box_item {
+    padding: 0;
+    width:100%;
+    margin: 5px;
+}
+.col.span_1_of_3.post_contant_box{
+  width:100%;
+  margin-bottom: 20px;
+}
+span.ti-comments, span.ti-package {
+    font-size: 15px;
+    line-height: 1;
+   display: inline-block;
+}
+section{
+  padding:30px 0;
+}
+/*================footer section===============
+===============================*/
+.row_footer .col.span_1_of_4 {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+}
+
+/*================Banner section===============
+===============================*/
+
+
+
+
+/*================Banner section===============
+===============================*/
